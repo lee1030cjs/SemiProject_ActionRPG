@@ -89,5 +89,7 @@ Build/Android/res/*
 !Build/Android/res/*/
 Build/Android/res/*/*
 !Build/Android/res/*/*.png
+AutoScreenshot.png
 
 # End of https://www.gitignore.io/api/unrealengine
+
