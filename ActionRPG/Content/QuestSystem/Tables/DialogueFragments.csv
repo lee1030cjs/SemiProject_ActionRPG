@@ -134,4 +134,69 @@ Decal12_1$D_AutoClose,,,,,,,,,CloseDialogue
 Decal12_2$D_Text,낙서,..아리아신...카르마.......Samsara,,D_AutoClose,,,,,
 Decal12_2$D_AutoClose,,,,,,,,,CloseDialogue
 Decal12_3$D_Text,누군가의 기록,"아리아 신은 인간을, 카르마를 이해하지 못한다. 분명 Samsara또한 그러하다.",,D_AutoClose,,,,,
-Decal12_3$D_AutoClose,,,,,,,,,
+Decal12_3$D_AutoClose,,,,,,,,,CloseDialogue
+DecalT01$D_Talk,케프리,여기에도 무언가 새겨져 있군.,,D_Text,UsedOnce,,,,
+DecalT01$D_Text,낙서,"여기, 어디",,D_AutoClose,,,,,
+DecalT01$D_AutoClose,,,,,,,,,CloseDialogue
+DecalT02$D_Text,낙서,"카르마, 유물, 연결",,D_AutoClose,,,,,
+DecalT02$D_AutoClose,,,,,,,,,CloseDialogue
+DecalT03$D_Text,낙서,↑,,D_Talk,,,,,
+DecalT03$D_Talk,케프리,화살표 방향을 보라는 건가?,,D_AutoClose,,,,,
+DecalT03$D_AutoClose,,,,,,,,,CloseDialogue
+DecalT04$D_Text,낙서,"죄인, 윤회, 자아",,D_AutoClose,,,,,
+DecalT04$D_AutoClose,,,,,,,,,CloseDialogue
+DecalT05$D_Text,낙서,Amen,,D_AutoClose,,,,,
+DecalT05$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS01_1$D_Text,알 수 없는 낙서,읽을 수 없다. 처음 보는 형태의 문자다.,,D_AutoClose,,,,,
+DecalS01_1$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS01_2$D_Text,낙서,죄인,,D_AutoClose,,,,,
+DecalS01_2$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS01_3$D_Text,누군가의 기록,죄인들에게는 밤이 오지 않는다.,,D_AutoClose,,,,,
+DecalS01_3$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS02_1$D_Text,알 수 없는 낙서,읽을 수 없다. 처음 보는 형태의 문자다.,,D_AutoClose,,,,,
+DecalS02_1$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS02_2$D_Text,낙서,결속,,D_AutoClose,,,,,
+DecalS02_2$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS02_3$D_Text,누군가의 기록,"신들의 문자는 인간이 읽을 수 없다.
+그러나 유물과 결속된 인간은 그 강도에 따라 의미를 알 수 있게 된다.",,D_AutoClose,,,,,
+DecalS02_3$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS03_1$D_Text,알 수 없는 낙서,읽을 수 없다. 처음 보는 형태의 문자다.,,D_AutoClose,,,,,
+DecalS03_1$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS03_2$D_Text,낙서,거울,,D_AutoClose,,,,,
+DecalS03_2$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS03_3$D_Text,누군가의 기록,"유물은 거울의 형상을 하고 있다. 유물이 비추는 것은 얼굴을 비추는 자의 카르마, 죄책감이다.",,D_AutoClose,,,,,
+DecalS03_3$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS04_1$D_Text,알 수 없는 낙서,읽을 수 없다. 처음 보는 형태의 문자다.,,D_AutoClose,,,,,
+DecalS04_1$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS04_2$D_Text,낙서,윤회,,D_AutoClose,,,,,
+DecalS04_2$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS04_3$D_Text,누군가의 기록,유물은 유적 내부에 윤회를 구현했다.,,D_AutoClose,,,,,
+DecalS04_3$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS05_1$D_Text,알 수 없는 낙서,읽을 수 없다. 처음 보는 형태의 문자다.,,D_AutoClose,,,,,
+DecalS05_1$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS05_2$D_Text,낙서,윤회,,D_AutoClose,,,,,
+DecalS05_2$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS05_3$D_Text,누군가의 기록,이 윤회는 죄인을 가두는 감옥이다.,,D_AutoClose,,,,,
+DecalS05_3$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS06_1$D_Text,알 수 없는 낙서,읽을 수 없다. 처음 보는 형태의 문자다.,,D_AutoClose,,,,,
+DecalS06_1$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS06_2$D_Text,낙서,아침,,D_AutoClose,,,,,
+DecalS06_2$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS06_3$D_Text,누군가의 기록,아침이 두렵다.,,D_AutoClose,,,,,
+DecalS06_3$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS07_1$D_Text,알 수 없는 낙서,읽을 수 없다. 처음 보는 형태의 문자다.,,D_AutoClose,,,,,
+DecalS07_1$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS07_2$D_Text,낙서,죽여-,,D_AutoClose,,,,,
+DecalS07_2$D_AutoClose,,,,,,,,,CloseDialogue
+DecalS07_3$D_Text,누군가의 기록,죽여줘,,D_AutoClose,,,,,
+DecalS07_3$D_AutoClose,,,,,,,,,CloseDialogue
+Statue01$D_Text,석상,가장 큰 죄는 자신의 죄에서 눈을 돌리는 것이다.,,D_AutoClose,,,,,
+Statue01$D_AutoClose,,,,,,,,,CloseDialogue
+Statue02$D_Text,석상,"카르마, 죄악, 혼돈, 소거 필요.",,D_AutoClose,,,,,
+Statue02$D_AutoClose,,,,,,,,,CloseDialogue
+Statue03$D_Text,석상,"Samsara, 회귀, 윤회, 소거 실패.",,D_AutoClose,,,,,
+Statue03$D_AutoClose,,,,,,,,,CloseDialogue
+Statue04$D_Text,석상,위대한 아리아 신의 유물 Samsara,,D_AutoClose,,,,,
+Statue04$D_AutoClose,,,,,,,,,CloseDialogue
+Tree01$D_Text,비틀어진 나무,"카르마는, 영혼을, 옥죄는, 사슬",,D_AutoClose,,,,,
+Tree01$D_AutoClose,,,,,,,,,CloseDialogue
